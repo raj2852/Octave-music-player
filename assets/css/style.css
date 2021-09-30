@@ -5,11 +5,7 @@
 	box-sizing: border-box;
 	font-family: 'poppins',sans-serif;
 }
-body{
-	/*display: grid;
-	place-items: center;
-	min-height: 100vh;*/
-}
+
 .main{
     position: relative;
     overflow: hidden;
@@ -367,5 +363,4 @@ box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
   }
 }
 
-/*Dev Ideas*/
 
